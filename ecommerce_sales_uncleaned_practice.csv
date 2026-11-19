@@ -1,0 +1,301 @@
+﻿Order_ID,Customer_Name,Email,Quantity,Order_Date,Product,Category,Unit_Price_INR,Discount_Percent,Total_Amount_INR,City,Payment_Method,Order_Status
+ORD10001,Priya Reddy,priya.reddy4@gmail.com,4,2025-02-22,Running Shoes,Fashion,2347.27,25,7041.81,Kolkata,UPI,Delivered
+ORD10002,Aarav Sharma,aarav.sharma98@gmail.com,7,2025/04/21,Notebook Set,Stationery,196.23,5,1304.93,Bangalore,UPI,Cancelled
+ORD10003,Divya Iyer,divya.iyer47@gmail.com,4,2025/04/27,Coffee Mug,Home & Kitchen,338.42,0,1353.68,Bangalore,Credit Card,Delivered
+ORD10004,Rahul Kumar,rahul.kumar69@gmail.com,3,24/11/2025,WATER BOTTLE ,Home & Kitchen,361.18,10,975.19,Chennai,UPI,Shipped
+ORD10005,Meera Nair,meera.nair19@gmail.com,3,2025/10/03,Running Shoes,Fashion,2370.68,20,5689.63,Kolkata,Net Banking,Cancelled
+ORD10006,Divya Iyer,divya.iyer9@gmail.com,7,2025/09/28,Desk Lamp,Home & Kitchen,978.43,15,5821.66,N/A,UPI,Returned
+ORD10007,Priya Reddy,priya.reddy81@gmail.com,4,2025-10-04,Running Shoes,Fashion,2276.93,5,8652.33,Chennai,Cash,Delivered
+ORD10008,Priya Reddy,priya.reddy98@gmail.com,3,09/10/2025,Backpack,Fashion,1170.86,15,2985.69,Pune,Net Banking,Returned
+ORD10009,Arjun Verma,not_an_email,4,11/01/2025,BLUETOOTH SPEAKER ,Electronics,1408.88,10,5071.97,Mumbai,UPI,Delivered
+ORD10010,Divya Iyer,divya.iyer74@gmail.com,4,2025-04-08,USB Cable,Electronics,231.61,15,787.47,Bangalore,Cash,Pending
+ORD10011,Sneha Patel,sneha.patel25@gmail.com,8,23-05-2025,Water Bottle,Home & Kitchen,316.22,5,2403.27,HYDERABAD ,UPI,Cancelled
+ORD10012,Meera Nair,meera.nair62@gmail.com,7,2025-07-14,Water Bottle,Home & Kitchen,422.63,5,2810.49,Kolkata,Debit Card,Cancelled
+ORD10013,Arjun Verma,not_an_email,1,N/A,Cotton T-Shirt,Fashion,608.17,15,516.94,Hyderabad,Net Banking,Delivered
+ORD10014,Priya Reddy,priya.reddy54@gmail.com,6,10/06/2025,Coffee Mug,Home & Kitchen,365.94,5,2085.86,Pune,Cash,Shipped
+ORD10015,Sneha Patel,sneha.patel65@gmail.com,3,2025/05/06,Running Shoes,Fashion,3057.04,0,9171.12,N/A,Credit Card,Cancelled
+ORD10016,Kiran Rao,kiran.rao15@gmail.com,3,2025/04/18,Bluetooth Speaker,Electronics,1437.45,20,3449.88,Mumbai,CREDIT CARD,Returned
+ORD10017,Meera Nair,meera.nair71@gmail.com,1,2025-03-18,Desk Lamp,Home & Kitchen,804.38,25,603.28,Chennai,Net Banking,Returned
+ORD10018, PRIYA REDDY ,priya.reddy46@gmail.com,7,21/03/2025,Backpack,Fashion,1610.16,25,8453.34,Delhi,Credit Card,Cancelled
+ORD10019,Priya Reddy,priya.reddy49@gmail.com,8,2025/06/29,WIRELESS MOUSE ,Electronics,468.55,15,3186.14,Mumbai,Credit Card,Delivered
+ORD10020,Ananya Das,ananya.das4@gmail.com,5,2025-01-20,Bluetooth Speaker,Electronics,1381.22,10,6215.49,gajwel,CREDIT CARD,Pending
+ORD10021,Ananya Das,ananya.das80@gmail.com,2,2025/09/17,Cotton T-Shirt,Fashion,795.39,10,1431.7,Kolkata,Debit Card,Cancelled
+ORD10022,Aarav Sharma,aarav.sharma39@gmail.com,4,2025/11/07,Running Shoes,Fashion,2553.87,20,8172.38,Gajwel,Cash,Cancelled
+ORD10023,Priya Reddy,priya.reddy97@gmail.com,5,2025-03-17,Water Bottle,Home & Kitchen,328.01,5,1558.05,Hyderabad,Credit Card,Cancelled
+ORD10024,Aarav Sharma,aarav.sharma97@gmail.com,7,23-09-2025,Bluetooth Speaker,Electronics,1405.37,25,7378.19,Hyderabad,Net Banking,Shipped
+ORD10025,Arjun Verma,arjun.verma55@gmail.com,8,01-09-2025,Backpack,Fashion,1570.34,25,9422.04,Pune,Credit Card,Pending
+ORD10026,Rahul Kumar,rahul.kumar20@gmail.com,7,2025-04-20,Water Bottle,Home & Kitchen,393.53,25,2066.03,Kolkata,Cash,Pending
+ORD10027,Vikram Singh,not_an_email,6,03/08/2025,Wireless Mouse,Electronics,483.75,15,2467.12,Gajwel,Credit Card,Pending
+ORD10028,Aarav Sharma,aarav.sharma51@gmail.com,1,11-03-2025,Coffee Mug,Home & Kitchen,264.19,15,224.56,Delhi,UPI,Pending
+ORD10029,Aarav Sharma,not_an_email,1,2025-04-25,Backpack,Fashion,1623.7,10,1461.33,Hyderabad,UPI,Shipped
+ORD10030,Rahul Kumar,rahul.kumar78@gmail.com,2,2025-06-09,Coffee Mug,Home & Kitchen,347.17,5,659.62,Hyderabad,Debit Card,Returned
+ORD10031,Divya Iyer,divya.iyer16@gmail.com,1,2025-07-09,Coffee Mug,Home & Kitchen,295.68,15,251.33,Chennai,UPI,Cancelled
+ORD10032,Kiran Rao,kiran.rao79@gmail.com,8,2025/10/31,Backpack,Fashion,1345.7,25,8074.2,Chennai,Credit Card,Delivered
+ORD10033,Ananya Das,ananya.das34@gmail.com,5,2025-05-22,Cotton T-Shirt,Fashion,840.29,25,3151.09,Mumbai,UPI,Shipped
+ORD10034,Sneha Patel,sneha.patel40@gmail.com,6,26-06-2025,Coffee Mug,Home & Kitchen,310.75,20,1491.6,Chennai,Debit Card,Cancelled
+ORD10035, MEERA NAIR ,meera.nair36@gmail.com,5,01/06/2025,Coffee Mug,Home & Kitchen,371.42,5,1764.25,Chennai,Credit Card,Pending
+ORD10036,Aarav Sharma,aarav.sharma74@gmail.com,8,2025-04-05,Running Shoes,N/A,2602.67,10,18739.22,Pune,Cash,Delivered
+ORD10037,Priya Reddy,priya.reddy72@gmail.com,4,19-08-2025,Desk Lamp,Home & Kitchen,1043.09,15,3546.51,Pune,Net Banking,Cancelled
+ORD10038,Rahul Kumar,rahul.kumar71@gmail.com,3,01-11-2025,Bluetooth Speaker,Electronics,1275.75,15,3253.16,Pune,UPI,Shipped
+ORD10039,Sneha Patel,sneha.patel55@gmail.com,4,2025-03-14,Bluetooth Speaker,Electronics,1662.47,10,5984.89,Hyderabad,Credit Card,Pending
+ORD10040,Meera Nair,meera.nair11@gmail.com,1,2025/06/15,Coffee Mug,Home & Kitchen,360.52,25,270.39,Hyderabad,UPI,PENDING 
+ORD10041,Meera Nair,meera.nair36@gmail.com,7,N/A,Notebook Set,Stationery,219.68,15,1307.1,Chennai,Cash,Pending
+ORD10042,Priya Reddy,priya.reddy41@gmail.com,6,2025-09-21,Running Shoes,Fashion,2240.03,15,11424.15,Gajwel,Cash,Delivered
+ORD10043,Meera Nair,meera.nair16@gmail.com,4,2025-10-10,Wireless Mouse,Electronics,565.82,10,2036.95,Kolkata,UPI,Shipped
+ORD10044,Meera Nair,meera.nair61@gmail.com,8,08/04/2025,WATER BOTTLE ,Home & Kitchen,373.61,15,2540.55,Bangalore,Debit Card,Cancelled
+ORD10045,Meera Nair,meera.nair69@gmail.com,6,13-07-2025,USB CABLE ,Electronics,195.61,20,938.93,Chennai,Credit Card,Shipped
+ORD10046,Rahul Kumar,not_an_email,3,2025-06-19,Wireless Mouse,Electronics,524.41,20,1258.58,N/A,UPI,Returned
+ORD10047,Ananya Das,ananya.das87@gmail.com,7,2025-09-07,Backpack,Fashion,1599.92,25,8399.58,Bangalore,Credit Card,Pending
+ORD10048,Aarav Sharma,aarav.sharma42@gmail.com,5,16/03/2025,Wireless Mouse,Electronics,495.7,15,2106.72,Kolkata,Net Banking,Shipped
+ORD10049,Kiran Rao,kiran.rao86@gmail.com,8,07/10/2025,Wireless Mouse,Electronics,604.03,25,3624.18,Bangalore,Cash,Pending
+ORD10050,Vikram Singh,vikram.singh74@gmail.com,5,12-01-2025,Cotton T-Shirt,Fashion,871.71,10,3922.7,Pune,UPI,Returned
+ORD10051, ANANYA DAS ,ananya.das29@gmail.com,5,2025-03-12,Water Bottle,Home & Kitchen,391.27,25,1467.26,Hyderabad,Debit Card,Cancelled
+ORD10052,Ananya Das,ananya.das68@gmail.com,5,2025/09/04,Backpack,Fashion,1535.66,10,6910.47,Chennai,UPI,Cancelled
+ORD10053,Vikram Singh,vikram.singh2@gmail.com,2,15-05-2025,Running Shoes,Fashion,2578.75,25,3868.12,Chennai,UPI,Shipped
+ORD10054,Vikram Singh,vikram.singh15@gmail.com,1,2025-09-10,Notebook Set,Stationery,244.47,10,220.02,Bangalore,Credit Card,Returned
+ORD10055,Priya Reddy,priya.reddy63@gmail.com,7,2025/01/17,Coffee Mug,Home & Kitchen,366.46,10,2308.7,Mumbai,Cash,Cancelled
+ORD10056,Priya Reddy,priya.reddy59@gmail.com,4,2025-01-11,Bluetooth Speaker,Electronics,1658.92,20,5308.54,Chennai,Credit Card,Shipped
+ORD10057, DIVYA IYER ,divya.iyer1@gmail.com,3,09/05/2025,Running Shoes,Fashion,3111.28,20,7467.07,gajwel,UPI,Shipped
+ORD10058, ANANYA DAS ,ananya.das66@gmail.com,2,2025-11-11,Coffee Mug,Home & Kitchen,308.21,5,585.6,Pune,Cash,Delivered
+ORD10059,Priya Reddy,priya.reddy17@gmail.com,6,2025/09/29,Running Shoes,Fashion,2504.9,20,12023.52,Gajwel,Net Banking,Returned
+ORD10060,Vikram Singh,vikram.singh44@gmail.com,7,10-06-2025,USB Cable,Electronics,202.26,0,1415.82,Chennai,Debit Card,Pending
+ORD10061,Aarav Sharma,aarav.sharma76@gmail.com,6,01-07-2025,Backpack,Fashion,1452.29,15,7406.68,Hyderabad,Debit Card,Returned
+ORD10062,Kiran Rao,kiran.rao74@gmail.com,7,2025-11-11,Water Bottle,Home & Kitchen,414.63,20,2321.93,Pune,UPI,delivered
+ORD10063,Arjun Verma,not_an_email,7,2025/07/09,Desk Lamp,Home & Kitchen,927.28,5,6166.41,Chennai,Net Banking,Returned
+ORD10064,Kiran Rao,,2,N/A,Backpack,Fashion,1283.5,0,2567.0,Pune,UPI,Shipped
+ORD10065,Vikram Singh,vikram.singh23@gmail.com,7,2025/09/14,Notebook Set,Stationery,211.54,5,1406.74,Bangalore,Cash,Delivered
+ORD10066,Ananya Das,ananya.das22@gmail.com,8,15-02-2025,Coffee Mug,Home & Kitchen,353.66,10,2546.35,Bangalore,Credit Card,Cancelled
+ORD10067,Arjun Verma,arjun.verma25@gmail.com,6,17/03/2025,Cotton T-Shirt,Fashion,797.53,25,3588.89,Bangalore,Credit Card,Pending
+ORD10068,Meera Nair,meera.nair88@gmail.com,6,11/06/2025,COFFEE MUG ,Home & Kitchen,357.51,25,1608.8,Gajwel,UPI,N/A
+ORD10069,Priya Reddy,priya.reddy79@gmail.com,7,22-01-2025,Coffee Mug,Home & Kitchen,309.49,20,1733.14,Mumbai,Debit Card,Returned
+ORD10070,Sneha Patel,sneha.patel91@gmail.com,8,2025/03/23,USB Cable,Electronics,210.87,20,1349.57,HYDERABAD ,Debit Card,Cancelled
+ORD10071,Divya Iyer,divya.iyer20@gmail.com,2,2025/06/29,Cotton T-Shirt,Fashion,757.08,5,1438.45,Kolkata,Credit Card,Returned
+ORD10072,Arjun Verma,arjun.verma12@gmail.com,6,N/A,Desk Lamp,Home & Kitchen,770.71,10,4161.83,Chennai,Cash,Shipped
+ORD10073,Ananya Das,ananya.das99@gmail.com,3,25/03/2025,Coffee Mug,Home & Kitchen,325.58,5,927.9,Delhi,Cash,Delivered
+ORD10074,Meera Nair,meera.nair25@gmail.com,8,15-07-2025,Cotton T-Shirt,Fashion,723.24,10,5207.33,Delhi,Credit Card,Returned
+ORD10075, RAHUL KUMAR ,rahul.kumar35@gmail.com,3,24-04-2025,USB Cable,Electronics,235.3,0,705.9,HYDERABAD ,UPI,Cancelled
+ORD10076,Rahul Kumar,rahul.kumar5@gmail.com,8,29-08-2025,Running Shoes,Fashion,2819.94,5,21431.54,Hyderabad,UPI,Delivered
+ORD10077,Vikram Singh,vikram.singh82@gmail.com,8,2025-11-02,Coffee Mug,Home & Kitchen,261.66,15,1779.29,Mumbai,Credit Card,delivered
+ORD10078,Meera Nair,meera.nair6@gmail.com,6,2025-07-02,DESK LAMP ,Home & Kitchen,855.36,0,5132.16,Chennai,Credit Card,Delivered
+ORD10079,Meera Nair,meera.nair81@gmail.com,3,2025/01/19,Notebook Set,Stationery,174.17,15,444.13,Mumbai,CREDIT CARD,Shipped
+ORD10080,Aarav Sharma,aarav.sharma84@gmail.com,5,12-08-2025,Cotton T-Shirt,Fashion,628.95,10,2830.28,Gajwel,Cash,Pending
+ORD10081,Rahul Kumar,rahul.kumar70@gmail.com,6,2025/06/01,Running Shoes,Fashion,2226.71,10,12024.23,Gajwel,Net Banking,Cancelled
+ORD10082, AARAV SHARMA ,not_an_email,6,2025-03-23,Desk Lamp,Home & Kitchen,948.66,25,4268.97,Delhi,Net Banking,Cancelled
+ORD10083,Ananya Das,ananya.das57@gmail.com,3,2025/06/10,Bluetooth Speaker,Electronics,1591.61,15,4058.61,Mumbai,UPI,Delivered
+ORD10084,Meera Nair,meera.nair26@gmail.com,3,30-03-2025,Bluetooth Speaker,Electronics,1785.5,15,4553.02,Bangalore,Debit Card,Pending
+ORD10085,Sneha Patel,sneha.patel16@gmail.com,3,2025/01/14,Water Bottle,Home & Kitchen,329.7,15,840.73,Chennai,Cash,Returned
+ORD10086,Rahul Kumar,rahul.kumar41@gmail.com,8,26/06/2025,Bluetooth Speaker,Electronics,1553.46,20,9942.14,Delhi,Credit Card,Cancelled
+ORD10087,Arjun Verma,arjun.verma37@gmail.com,5,21/05/2025,Bluetooth Speaker,Electronics,1391.85,20,5567.4,Pune,Net Banking,Returned
+ORD10088,Aarav Sharma,aarav.sharma4@gmail.com,1,16/05/2025,Bluetooth Speaker,Electronics,1842.9,20,1474.32,Kolkata,Net Banking,Delivered
+ORD10089,Aarav Sharma,aarav.sharma21@gmail.com,7,24/06/2025,USB Cable,Electronics,207.7,5,1381.2,Chennai,Debit Card,Pending
+ORD10090,Kiran Rao,kiran.rao50@gmail.com,7,2025/06/17,Coffee Mug,Home & Kitchen,283.84,5,1887.54,Mumbai,Credit Card,Cancelled
+ORD10091,Aarav Sharma,aarav.sharma7@gmail.com,8,2025/08/29,Running Shoes,N/A,2721.43,25,16328.58,BANGOLORE,UPI,Cancelled
+ORD10092,Meera Nair,meera.nair98@gmail.com,5,2025-11-09,Backpack,Fashion,1532.98,20,6131.92,Delhi,UPI,delivered
+ORD10093,Ananya Das,ananya.das61@gmail.com,8,2025/03/13,Backpack,Fashion,1181.54,20,7561.86,Chennai,Credit Card,Cancelled
+ORD10094,Ananya Das,ananya.das43@gmail.com,7,2025-11-19,Bluetooth Speaker,Electronics,1624.14,25,8526.74,Gajwel,Debit Card,Returned
+ORD10095,Aarav Sharma,aarav.sharma74@gmail.com,4,03/08/2025,Bluetooth Speaker,Electronics,1285.5,10,4627.8,Kolkata,Credit Card,Cancelled
+ORD10096,Meera Nair,meera.nair68@gmail.com,6,2025/09/30,Desk Lamp,Home & Kitchen,1108.17,15,5651.67,Chennai,Debit Card,Returned
+ORD10097,Meera Nair,meera.nair41@gmail.com,6,2025/05/21,USB Cable,Electronics,213.76,25,961.92,Bangalore,Net Banking,Returned
+ORD10098,Meera Nair,,8,2025/05/19,Running Shoes,Fashion,2338.05,20,14963.52,Delhi,UPI,Returned
+ORD10099,Rahul Kumar,rahul.kumar1@gmail.com,3,02/09/2025,Backpack,Fashion,1315.58,15,3354.73,Pune,Debit Card,Pending
+ORD10100,Rahul Kumar,rahul.kumar5@gmail.com,8,2025-05-29,Desk Lamp,Home & Kitchen,831.15,25,4986.9,Hyderabad,Debit Card,Returned
+ORD10101,Kiran Rao,kiran.rao25@gmail.com,6,12/05/2025,Bluetooth Speaker,Electronics,1371.58,15,6995.06,Hyderabad,Debit Card,Pending
+ORD10102,Rahul Kumar,rahul.kumar18@gmail.com,6,14-05-2025,USB CABLE ,Electronics,243.64,0,1461.84,Mumbai,upi,Pending
+ORD10103,Arjun Verma,arjun.verma91@gmail.com,2,08/07/2025,Running Shoes,Fashion,2762.61,10,4972.7,Mumbai,Credit Card,Cancelled
+ORD10104,Sneha Patel,sneha.patel88@gmail.com,2,2025-07-05,Coffee Mug,Home & Kitchen,317.0,20,507.2,Bangalore,UPI,Returned
+ORD10105,Arjun Verma,arjun.verma58@gmail.com,8,2025-08-22,Wireless Mouse,N/A,450.49,15,3063.33,Gajwel,upi,Delivered
+ORD10106,Meera Nair,meera.nair5@gmail.com,7,25-11-2025,Running Shoes,Fashion,2304.06,5,15322.0,Chennai,Cash,Cancelled
+ORD10107,Arjun Verma,arjun.verma51@gmail.com,3,N/A,Backpack,Fashion,1482.35,5,4224.7,Pune,Cash,Returned
+ORD10108,Vikram Singh,not_an_email,4,2025-11-01,Wireless Mouse,Electronics,465.28,0,1861.12,Gajwel,Net Banking,Delivered
+ORD10109, DIVYA IYER ,divya.iyer41@gmail.com,6,24/09/2025,Coffee Mug,Home & Kitchen,282.48,5,1610.14,Kolkata,Debit Card,Pending
+ORD10110,Vikram Singh,vikram.singh68@gmail.com,7,12/07/2025,Cotton T-Shirt,Fashion,708.3,10,4462.29,Gajwel,Credit Card,Shipped
+ORD10111,Sneha Patel,sneha.patel43@gmail.com,8,02/10/2025,Bluetooth Speaker,Electronics,1782.09,0,14256.72,Hyderabad,Debit Card,Cancelled
+ORD10112,Ananya Das,ananya.das39@gmail.com,4,02-03-2025,Wireless Mouse,Electronics,611.21,25,1833.63,Mumbai,Net Banking,Shipped
+ORD10113,Meera Nair,not_an_email,6,10-06-2025,USB Cable,Electronics,241.93,10,1306.42,Hyderabad,Net Banking,Shipped
+ORD10114,Sneha Patel,sneha.patel64@gmail.com,6,25-11-2025,Backpack,Fashion,1237.86,15,6313.09,Gajwel,upi,Pending
+ORD10115,Aarav Sharma,aarav.sharma98@gmail.com,7,N/A,Wireless Mouse,Electronics,451.59,25,2370.85,Delhi,UPI,
+ORD10116,Arjun Verma,arjun.verma93@gmail.com,5,09/08/2025,Running Shoes,Fashion,2141.29,25,8029.84,Bangalore,UPI,Returned
+ORD10117,Sneha Patel,sneha.patel39@gmail.com,1,13-07-2025,Bluetooth Speaker,Electronics,1330.21,15,1130.68,Hyderabad,UPI,Shipped
+ORD10118,Divya Iyer,divya.iyer61@gmail.com,1,2025-05-24,Running Shoes,Fashion,3047.94,25,2285.95,BANGOLORE,Debit Card,Delivered
+ORD10119,Arjun Verma,arjun.verma43@gmail.com,3,2025/02/10,Desk Lamp,Home & Kitchen,1048.41,25,2358.92,Hyderabad,UPI,Cancelled
+ORD10120,Meera Nair,meera.nair63@gmail.com,6,10/08/2025,Water Bottle,Home & Kitchen,373.85,15,1906.64,Kolkata,UPI,Returned
+ORD10121,Priya Reddy,priya.reddy1@gmail.com,8,22/02/2025,RUNNING SHOES ,Fashion,2483.92,10,17884.22,Bangalore,Credit Card,Cancelled
+ORD10122,Kiran Rao,kiran.rao53@gmail.com,2,05/05/2025,Desk Lamp,Home & Kitchen,1024.8,20,1639.68,Kolkata,Credit Card,Shipped
+ORD10123,Meera Nair,meera.nair77@gmail.com,4,2025-06-05,Coffee Mug,Home & Kitchen,308.91,5,1173.86,Kolkata,Debit Card,Returned
+ORD10124,Sneha Patel,sneha.patel62@gmail.com,3,N/A,Cotton T-Shirt,Fashion,863.85,10,2332.4,Mumbai,Debit Card,Cancelled
+ORD10125,Meera Nair,meera.nair91@gmail.com,8,05-02-2025,Water Bottle,Home & Kitchen,408.01,25,2448.06,Gajwel,Credit Card,Pending
+ORD10126,Vikram Singh,vikram.singh70@gmail.com,6,2025-11-01,Wireless Mouse,Electronics,564.2,20,2708.16,Bangalore,Credit Card,Pending
+ORD10127,Priya Reddy,priya.reddy34@gmail.com,4,26/08/2025,Water Bottle,Home & Kitchen,358.88,15,1220.19,Chennai,UPI,Cancelled
+ORD10128,Meera Nair,meera.nair45@gmail.com,2,2025/08/20,USB Cable,Electronics,204.03,25,306.05,Bangalore,Debit Card,Delivered
+ORD10129, RAHUL KUMAR ,rahul.kumar43@gmail.com,7,27/07/2025,Backpack,Fashion,1602.17,5,10654.43,Delhi,Cash,Cancelled
+ORD10130,Priya Reddy,priya.reddy74@gmail.com,3,2025-08-23,Bluetooth Speaker,Electronics,1493.48,5,4256.42,Pune,Cash,Returned
+ORD10131,Kiran Rao,kiran.rao79@gmail.com,2,02/03/2025,Coffee Mug,Home & Kitchen,334.53,10,602.15,Pune,UPI,Shipped
+ORD10132,Rahul Kumar,rahul.kumar72@gmail.com,8,11-06-2025,Notebook Set,Stationery,192.14,5,1460.26,Hyderabad,Debit Card,Delivered
+ORD10133,Rahul Kumar,rahul.kumar11@gmail.com,1,2025-05-30,Coffee Mug,Home & Kitchen,349.34,5,331.87,Pune,Credit Card,Returned
+ORD10134,Ananya Das,ananya.das70@gmail.com,8,22/02/2025,Wireless Mouse,Electronics,533.2,15,3625.76,Pune,UPI,Cancelled
+ORD10135,Divya Iyer,divya.iyer81@gmail.com,3,2025-04-16,Desk Lamp,Home & Kitchen,985.72,5,2809.3,Chennai,Net Banking,Pending
+ORD10136,Rahul Kumar,rahul.kumar97@gmail.com,1,06/03/2025,Desk Lamp,Home & Kitchen,1121.05,25,840.79,Mumbai,Credit Card,Pending
+ORD10137,Priya Reddy,priya.reddy52@gmail.com,5,21-08-2025,Backpack,Fashion,1465.12,10,6593.04,Chennai,Net Banking,Delivered
+ORD10138, VIKRAM SINGH ,vikram.singh28@gmail.com,5,22/06/2025,USB CABLE ,Electronics,194.85,10,876.83,Gajwel,Debit Card,Delivered
+ORD10139,Rahul Kumar,,3,2025/02/17,Running Shoes,Fashion,2998.22,10,8095.19,Pune,UPI,Pending
+ORD10140,Sneha Patel,sneha.patel62@gmail.com,3,2025-08-16,Bluetooth Speaker,Electronics,1630.12,20,3912.29,Hyderabad,Debit Card,Delivered
+ORD10141,Rahul Kumar,rahul.kumar49@gmail.com,3,05/01/2025,Notebook Set,Stationery,174.6,20,419.04,Gajwel,Debit Card,Shipped
+ORD10142,Vikram Singh,vikram.singh45@gmail.com,6,2025-05-22,Desk Lamp,Home & Kitchen,1048.62,5,5977.13,Mumbai,Net Banking,Returned
+ORD10143,Vikram Singh,vikram.singh38@gmail.com,4,04-05-2025,Wireless Mouse,Electronics,522.93,0,2091.72,Bangalore,Net Banking,Delivered
+ORD10144,Priya Reddy,priya.reddy3@gmail.com,2,2025-01-21,Coffee Mug,Home & Kitchen,255.8,5,486.02,Kolkata,Net Banking,Pending
+ORD10145, ARJUN VERMA ,arjun.verma27@gmail.com,6,2025-11-26,Notebook Set,Stationery,200.25,25,901.12,Pune,Cash,Shipped
+ORD10146,Rahul Kumar,rahul.kumar90@gmail.com,3,2025/09/25,Wireless Mouse,Electronics,523.23,10,1412.72,Delhi,Debit Card,Shipped
+ORD10147,Divya Iyer,divya.iyer81@gmail.com,8,29-01-2025,Bluetooth Speaker,Electronics,1547.09,10,11139.05,Delhi,upi,Shipped
+ORD10148,Vikram Singh,vikram.singh20@gmail.com,1,03/08/2025,Notebook Set,Stationery,213.16,25,159.87,Chennai,CREDIT CARD,Cancelled
+ORD10149,Vikram Singh,vikram.singh9@gmail.com,5,2025-06-17,USB Cable,Electronics,230.72,10,1038.24,Gajwel,UPI,Pending
+ORD10150, ARJUN VERMA ,arjun.verma98@gmail.com,3,13/01/2025,Water Bottle,Home & Kitchen,297.54,15,758.73,Chennai,UPI,Pending
+ORD10151,Rahul Kumar,rahul.kumar92@gmail.com,2,24-09-2025,Running Shoes,Fashion,2168.03,5,4119.26,BANGOLORE,Cash,Delivered
+ORD10152,Vikram Singh,vikram.singh90@gmail.com,6,08/02/2025,Cotton T-Shirt,Fashion,720.74,5,4108.22,Delhi,Net Banking,Delivered
+ORD10153,Priya Reddy,priya.reddy12@gmail.com,5,2025-11-05,Notebook Set,Stationery,234.93,25,880.99,Mumbai,Debit Card,
+ORD10154,Arjun Verma,arjun.verma96@gmail.com,4,N/A,Backpack,Fashion,1153.37,0,4613.48,Hyderabad,UPI,Shipped
+ORD10155,Priya Reddy,priya.reddy26@gmail.com,3,2025-03-04,USB Cable,Electronics,176.47,10,476.47,Gajwel,UPI,Shipped
+ORD10156,Meera Nair,meera.nair20@gmail.com,4,30-07-2025,Wireless Mouse,Electronics,553.35,15,1881.39,Hyderabad,UPI,
+ORD10157, ANANYA DAS ,,8,2025/09/15,Backpack,Fashion,1282.91,20,8210.62,Kolkata,Debit Card,Shipped
+ORD10158,Sneha Patel,sneha.patel21@gmail.com,4,N/A,Bluetooth Speaker,Electronics,1668.01,10,6004.84,Mumbai,Net Banking,Cancelled
+ORD10159,Ananya Das,ananya.das73@gmail.com,3,2025/09/10,Coffee Mug,N/A,321.5,5,916.27,Delhi,Cash,Delivered
+ORD10160,Ananya Das,ananya.das8@gmail.com,3,2025/02/26,Wireless Mouse,Electronics,541.24,5,1542.53,Bangalore,Debit Card,Cancelled
+ORD10161,Arjun Verma,not_an_email,6,31-03-2025,Coffee Mug,Home & Kitchen,280.85,20,1348.08,Pune,Debit Card,Shipped
+ORD10162,Divya Iyer,divya.iyer29@gmail.com,2,2025-06-19,Coffee Mug,Home & Kitchen,366.18,5,695.74,Mumbai,Debit Card,Pending
+ORD10163,Priya Reddy,priya.reddy45@gmail.com,2,17-07-2025,Running Shoes,Fashion,2844.28,0,5688.56,Kolkata,Credit Card,Cancelled
+ORD10164,Priya Reddy,priya.reddy5@gmail.com,1,2025/02/07,Running Shoes,Fashion,2442.74,0,2442.74,Delhi,Cash,PENDING 
+ORD10165,Vikram Singh,vikram.singh21@gmail.com,2,2025/07/29,Wireless Mouse,N/A,490.24,5,931.46,HYDERABAD ,Debit Card,Shipped
+ORD10166,Sneha Patel,sneha.patel13@gmail.com,4,11-02-2025,Wireless Mouse,Electronics,458.25,10,1649.7,Bangalore,Debit Card,Cancelled
+ORD10167,Meera Nair,meera.nair60@gmail.com,4,01/02/2025,Running Shoes,Fashion,2960.89,20,9474.85,Bangalore,UPI,Pending
+ORD10168,Meera Nair,meera.nair74@gmail.com,8,18/01/2025,Water Bottle,N/A,338.37,15,2300.92,gajwel,Cash,Shipped
+ORD10169,Divya Iyer,not_an_email,2,2025/07/23,Cotton T-Shirt,Fashion,618.48,20,989.57,Pune,Net Banking,Cancelled
+ORD10170,Priya Reddy,priya.reddy14@gmail.com,2,26-06-2025,Coffee Mug,Home & Kitchen,348.13,20,557.01,Pune,Cash,Cancelled
+ORD10171,Sneha Patel,sneha.patel7@gmail.com,5,2025/06/22,USB Cable,Electronics,240.55,0,1202.75,Pune,Debit Card,Cancelled
+ORD10172, DIVYA IYER ,divya.iyer83@gmail.com,4,2025/09/06,Bluetooth Speaker,Electronics,1539.0,15,5232.6,Hyderabad,Net Banking,Shipped
+ORD10173,Aarav Sharma,aarav.sharma32@gmail.com,8,2025/04/12,Wireless Mouse,Electronics,434.24,10,3126.53,Chennai,Cash,Returned
+ORD10174,Ananya Das,ananya.das21@gmail.com,2,26/01/2025,RUNNING SHOES ,Fashion,2409.11,15,4095.49,Mumbai,CREDIT CARD,Shipped
+ORD10175,Aarav Sharma,aarav.sharma29@gmail.com,5,2025/11/26,Running Shoes,Fashion,2836.61,25,10637.29,Kolkata,N/A,Pending
+ORD10176,Kiran Rao,kiran.rao39@gmail.com,8,2025/11/24,BLUETOOTH SPEAKER ,Electronics,1312.43,10,9449.5,Pune,Debit Card,Pending
+ORD10177,Aarav Sharma,aarav.sharma84@gmail.com,5,27-07-2025,USB Cable,Electronics,189.8,15,806.65,Hyderabad,Net Banking,Returned
+ORD10178,Rahul Kumar,rahul.kumar85@gmail.com,3,2025/03/07,Backpack,Fashion,1256.8,15,3204.84,Delhi,Debit Card,Delivered
+ORD10179,Aarav Sharma,aarav.sharma82@gmail.com,2,2025-09-14,Coffee Mug,Home & Kitchen,310.63,5,590.2,Kolkata,Net Banking,Pending
+ORD10180,Rahul Kumar,rahul.kumar11@gmail.com,6,2025-06-10,USB Cable,Electronics,219.38,5,1250.47,Hyderabad,Cash,Pending
+ORD10181, VIKRAM SINGH ,not_an_email,1,2025-07-11,Desk Lamp,Home & Kitchen,777.72,5,738.83,Chennai,Net Banking,Shipped
+ORD10182,Priya Reddy,priya.reddy6@gmail.com,5,2025/11/02,Running Shoes,Fashion,2579.89,20,10319.56,Kolkata,CREDIT CARD,Pending
+ORD10183, AARAV SHARMA ,aarav.sharma76@gmail.com,3,20-01-2025,Backpack,N/A,1168.14,25,2628.32,Pune,Net Banking,Returned
+ORD10184,Meera Nair,meera.nair90@gmail.com,4,2025/01/05,Notebook Set,Stationery,224.49,25,673.47,Kolkata,UPI,Returned
+ORD10185,Sneha Patel,sneha.patel78@gmail.com,5,03-07-2025,Water Bottle,Home & Kitchen,412.73,5,1960.47,HYDERABAD ,Credit Card,Delivered
+ORD10186,Rahul Kumar,rahul.kumar12@gmail.com,2,12/05/2025,BACKPACK ,Fashion,1480.11,0,2960.22,Gajwel,Debit Card,Pending
+ORD10187,Aarav Sharma,aarav.sharma2@gmail.com,3,2025/11/15,Notebook Set,Stationery,195.31,15,498.04,Bangalore,Debit Card,Pending
+ORD10188,Priya Reddy,priya.reddy17@gmail.com,3,05-09-2025,Wireless Mouse,Electronics,444.85,20,1067.64,Delhi,Net Banking,Cancelled
+ORD10189,Meera Nair,meera.nair6@gmail.com,5,26/09/2025,Bluetooth Speaker,Electronics,1666.87,0,8334.35,Chennai,Net Banking,Returned
+ORD10190,Divya Iyer,,3,11/09/2025,Wireless Mouse,Electronics,525.06,15,1338.9,Bangalore,Cash,Pending
+ORD10191,Meera Nair,not_an_email,8,2025-01-10,USB Cable,Electronics,194.31,15,1321.31,Kolkata,Cash,Delivered
+ORD10192,Ananya Das,,4,14-10-2025,Wireless Mouse,Electronics,592.68,10,2133.65,Chennai,Cash,Delivered
+ORD10193,Rahul Kumar,rahul.kumar64@gmail.com,7,11/04/2025,Notebook Set,Stationery,177.66,20,994.9,Bangalore,Cash,Shipped
+ORD10194,Meera Nair,meera.nair59@gmail.com,3,2025-09-29,Coffee Mug,Home & Kitchen,369.43,0,1108.29,Kolkata,Net Banking,Cancelled
+ORD10195,Ananya Das,ananya.das65@gmail.com,7,2025/05/08,Desk Lamp,Home & Kitchen,1116.38,25,5861.0,Kolkata,Debit Card,Pending
+ORD10196,Arjun Verma,arjun.verma81@gmail.com,4,2025/05/29,Water Bottle,Home & Kitchen,325.93,25,977.79,Delhi,Credit Card,Returned
+ORD10197,Arjun Verma,arjun.verma37@gmail.com,1,15/07/2025,Desk Lamp,Home & Kitchen,952.12,0,952.12,N/A,UPI,Shipped
+ORD10198,Meera Nair,meera.nair14@gmail.com,4,19/07/2025,Coffee Mug,Home & Kitchen,342.94,20,1097.41,N/A,UPI,Cancelled
+ORD10199,Meera Nair,meera.nair29@gmail.com,4,N/A,COTTON T-SHIRT ,Fashion,811.16,5,3082.41,Delhi,UPI,Shipped
+ORD10200,Meera Nair,meera.nair91@gmail.com,1,2025-11-02,Notebook Set,Stationery,181.38,10,163.24,Pune,Cash,Returned
+ORD10201,Vikram Singh,vikram.singh12@gmail.com,4,2025/06/19,Cotton T-Shirt,Fashion,841.15,25,2523.45,Chennai,Debit Card,Shipped
+ORD10202,Divya Iyer,not_an_email,1,2025-07-15,Water Bottle,Home & Kitchen,391.93,10,352.74,Kolkata,Debit Card,Returned
+ORD10203,Ananya Das,ananya.das66@gmail.com,2,2025-10-01,Bluetooth Speaker,Electronics,1374.52,20,2199.23,Bangalore,Credit Card,Shipped
+ORD10204,Rahul Kumar,rahul.kumar4@gmail.com,6,28/01/2025,USB Cable,Electronics,172.17,0,1033.02,Pune,upi,Delivered
+ORD10205,Divya Iyer,divya.iyer9@gmail.com,1,2025-07-03,Coffee Mug,Home & Kitchen,337.98,0,337.98,Pune,Debit Card,Returned
+ORD10206, ARJUN VERMA ,arjun.verma38@gmail.com,5,2025-07-11,Notebook Set,Stationery,223.06,25,836.47,Delhi,UPI,Delivered
+ORD10207,Arjun Verma,arjun.verma19@gmail.com,3,2025-04-10,Notebook Set,Stationery,186.72,10,504.14,Delhi,upi,Delivered
+ORD10208,Ananya Das,ananya.das46@gmail.com,4,05/02/2025,Notebook Set,Stationery,177.11,20,566.75,Chennai,Cash,Cancelled
+ORD10209,Sneha Patel,sneha.patel92@gmail.com,5,19-06-2025,Desk Lamp,Home & Kitchen,1066.25,5,5064.69,Gajwel,Cash,Pending
+ORD10210,Priya Reddy,priya.reddy94@gmail.com,1,16-01-2025,Bluetooth Speaker,Electronics,1783.56,25,1337.67,Mumbai,UPI,Returned
+ORD10211,Rahul Kumar,rahul.kumar60@gmail.com,2,06/01/2025,Backpack,Fashion,1310.32,20,2096.51,Delhi,Net Banking,Shipped
+ORD10212,Meera Nair,not_an_email,5,2025/04/16,Bluetooth Speaker,Electronics,1495.66,0,7478.3,Kolkata,Cash,Cancelled
+ORD10213,Divya Iyer,divya.iyer23@gmail.com,7,2025/02/09,Desk Lamp,Home & Kitchen,895.51,25,4701.43,BANGOLORE,Credit Card,Returned
+ORD10214,Kiran Rao,kiran.rao28@gmail.com,3,02/03/2025,Notebook Set,Stationery,181.68,20,436.03,HYDERABAD ,Debit Card,Delivered
+ORD10215,Arjun Verma,arjun.verma6@gmail.com,3,03-04-2025,Coffee Mug,Home & Kitchen,260.84,10,704.27,Hyderabad,Debit Card,Delivered
+ORD10216,Divya Iyer,divya.iyer85@gmail.com,5,25-06-2025,Backpack,Fashion,1191.3,25,4467.38,Bangalore,Credit Card,Cancelled
+ORD10217,Divya Iyer,not_an_email,2,2025-03-08,Wireless Mouse,Electronics,442.75,25,664.12,Kolkata,Net Banking,Cancelled
+ORD10218, DIVYA IYER ,,3,2025/02/12,Desk Lamp,Home & Kitchen,855.67,5,2438.66,Kolkata,Debit Card,Shipped
+ORD10219,Priya Reddy,priya.reddy20@gmail.com,5,2025/08/05,Desk Lamp,Home & Kitchen,858.11,20,3432.44,Pune,Cash,Shipped
+ORD10220,Rahul Kumar,rahul.kumar85@gmail.com,4,2025-03-24,Bluetooth Speaker,N/A,1541.93,25,4625.79,Mumbai,Net Banking,Cancelled
+ORD10221,Meera Nair,meera.nair77@gmail.com,2,2025-07-09,Desk Lamp,Home & Kitchen,787.19,5,1495.66,Hyderabad,Cash,Cancelled
+ORD10222,Arjun Verma,not_an_email,1,22/09/2025,Water Bottle,Home & Kitchen,406.09,20,324.87,Delhi,UPI,Pending
+ORD10223,Priya Reddy,priya.reddy12@gmail.com,5,2025/10/26,Backpack,Fashion,1481.45,20,5925.8,Chennai,Debit Card,Shipped
+ORD10224,Priya Reddy,priya.reddy66@gmail.com,5,16-10-2025,Running Shoes,Fashion,2818.06,15,11976.75,Mumbai,Debit Card,Cancelled
+ORD10225, ANANYA DAS ,ananya.das53@gmail.com,1,2025/05/08,Cotton T-Shirt,Fashion,790.1,10,711.09,Bangalore,Cash,Pending
+ORD10226,Meera Nair,meera.nair95@gmail.com,4,16/04/2025,Water Bottle,Home & Kitchen,399.32,10,1437.55,Mumbai,upi,Returned
+ORD10227, ANANYA DAS ,ananya.das64@gmail.com,5,24-05-2025,Coffee Mug,Home & Kitchen,312.85,20,1251.4,Mumbai,Net Banking,Shipped
+ORD10228,Arjun Verma,arjun.verma59@gmail.com,1,2025-07-14,Cotton T-Shirt,Fashion,597.45,5,567.58,Chennai,Debit Card,Returned
+ORD10229,Ananya Das,ananya.das47@gmail.com,5,09/03/2025,Desk Lamp,Home & Kitchen,926.23,20,3704.92,Bangalore,,Shipped
+ORD10230, ARJUN VERMA ,arjun.verma69@gmail.com,8,2025-10-18,Cotton T-Shirt,Fashion,678.04,20,4339.46,Kolkata,UPI,Shipped
+ORD10231,Kiran Rao,kiran.rao45@gmail.com,7,07/11/2025,Wireless Mouse,Electronics,448.35,25,2353.84,Delhi,Debit Card,Pending
+ORD10232,Ananya Das,ananya.das54@gmail.com,7,10/02/2025,Coffee Mug,Home & Kitchen,355.68,0,2489.76,Chennai,Credit Card,Pending
+ORD10233,Meera Nair,meera.nair53@gmail.com,3,2025/05/01,Notebook Set,N/A,237.15,5,675.88,Bangalore,Credit Card,Shipped
+ORD10234,Divya Iyer,not_an_email,7,26-05-2025,Bluetooth Speaker,Electronics,1459.65,5,9706.67,Delhi,Credit Card,Returned
+ORD10235,Meera Nair,meera.nair18@gmail.com,3,20-11-2025,Backpack,Fashion,1411.15,15,3598.43,Pune,CREDIT CARD,Cancelled
+ORD10236,Aarav Sharma,aarav.sharma89@gmail.com,8,30/05/2025,USB Cable,Electronics,193.0,15,1312.4,Hyderabad,Net Banking,Pending
+ORD10237,Sneha Patel,sneha.patel67@gmail.com,5,2025/09/30,Coffee Mug,Home & Kitchen,288.2,25,1080.75,Kolkata,Credit Card,delivered
+ORD10238, AARAV SHARMA ,aarav.sharma24@gmail.com,5,2025-08-13,Bluetooth Speaker,Electronics,1435.56,25,5383.35,Mumbai,UPI,delivered
+ORD10239,Rahul Kumar,rahul.kumar8@gmail.com,7,03/04/2025,Running Shoes,Fashion,2195.51,15,13063.28,Pune,,Delivered
+ORD10240,Sneha Patel,sneha.patel61@gmail.com,5,2025-11-19,Desk Lamp,Home & Kitchen,1100.81,5,5228.85,Bangalore,Debit Card,Cancelled
+ORD10241,Kiran Rao,kiran.rao75@gmail.com,7,22-01-2025,Bluetooth Speaker,Electronics,1747.32,0,12231.24,Delhi,N/A,Delivered
+ORD10242,Priya Reddy,priya.reddy17@gmail.com,4,2025/11/27,USB Cable,Electronics,194.36,20,621.95,Gajwel,Credit Card,Delivered
+ORD10243,Rahul Kumar,rahul.kumar70@gmail.com,6,03/11/2025,Cotton T-Shirt,Fashion,798.93,10,4314.22,Bangalore,Net Banking,Shipped
+ORD10244,Ananya Das,ananya.das80@gmail.com,6,03-10-2025,Water Bottle,Home & Kitchen,397.3,25,1787.85,Mumbai,Net Banking,PENDING 
+ORD10245,Aarav Sharma,aarav.sharma26@gmail.com,8,20-10-2025,Bluetooth Speaker,Electronics,1389.04,0,11112.32,Gajwel,Net Banking,Returned
+ORD10246,Priya Reddy,priya.reddy60@gmail.com,6,2025-07-08,Wireless Mouse,Electronics,535.53,15,2731.2,Pune,Net Banking,Delivered
+ORD10247,Sneha Patel,sneha.patel73@gmail.com,7,2025/10/23,Notebook Set,Stationery,228.54,25,1199.84,Gajwel,Cash,Delivered
+ORD10248,Ananya Das,ananya.das48@gmail.com,7,08/11/2025,Desk Lamp,Home & Kitchen,1061.24,10,6685.81,Mumbai,Cash,Returned
+ORD10249,Kiran Rao,kiran.rao1@gmail.com,4,2025/01/12,Running Shoes,Fashion,2338.89,10,8420.0,Delhi,UPI,Delivered
+ORD10250,Sneha Patel,sneha.patel94@gmail.com,6,2025-09-07,Bluetooth Speaker,Electronics,1749.58,5,9972.61,Pune,UPI,Returned
+ORD10251,Divya Iyer,divya.iyer2@gmail.com,1,13/06/2025,Desk Lamp,Home & Kitchen,873.75,0,873.75,Chennai,Net Banking,Shipped
+ORD10252,Rahul Kumar,rahul.kumar17@gmail.com,2,26-01-2025,Cotton T-Shirt,Fashion,727.2,25,1090.8,Pune,UPI,Cancelled
+ORD10253,Arjun Verma,arjun.verma32@gmail.com,2,2025-06-15,Water Bottle,Home & Kitchen,333.82,15,567.49,Bangalore,Cash,Cancelled
+ORD10254,Divya Iyer,divya.iyer19@gmail.com,1,2025/04/13,USB Cable,Electronics,242.72,5,230.58,Delhi,UPI,Delivered
+ORD10255,Meera Nair,meera.nair3@gmail.com,4,2025/04/15,Cotton T-Shirt,Fashion,801.06,5,3044.03,Gajwel,CREDIT CARD,Shipped
+ORD10256,Aarav Sharma,aarav.sharma60@gmail.com,2,2025-07-04,Wireless Mouse,Electronics,501.72,10,903.1,Hyderabad,Debit Card,Cancelled
+ORD10257, MEERA NAIR ,meera.nair72@gmail.com,1,2025/06/06,Wireless Mouse,Electronics,473.53,20,378.82,Gajwel,Cash,N/A
+ORD10258,Aarav Sharma,aarav.sharma72@gmail.com,4,2025-03-12,Running Shoes,Fashion,2275.8,15,7737.72,Kolkata,Net Banking,Returned
+ORD10259,Rahul Kumar,rahul.kumar75@gmail.com,4,26/09/2025,Backpack,Fashion,1552.35,10,5588.46,Kolkata,Credit Card,Returned
+ORD10260,Vikram Singh,vikram.singh53@gmail.com,8,21/05/2025,Running Shoes,Fashion,2869.46,25,17216.76,Mumbai,UPI,Shipped
+ORD10261,Meera Nair,meera.nair18@gmail.com,8,05-04-2025,Backpack,Fashion,1474.12,10,10613.66,Gajwel,Cash,Shipped
+ORD10262,Sneha Patel,sneha.patel9@gmail.com,8,16-06-2025,Notebook Set,Stationery,238.17,15,1619.56,Mumbai,Cash,Cancelled
+ORD10263,Aarav Sharma,,8,06-05-2025,Bluetooth Speaker,Electronics,1548.11,0,12384.88,Hyderabad,Net Banking,Cancelled
+ORD10264,Divya Iyer,divya.iyer7@gmail.com,3,2025-08-20,Backpack,Fashion,1345.03,25,3026.32,Bangalore,Credit Card,Returned
+ORD10265,Meera Nair,meera.nair12@gmail.com,6,2025-03-25,Running Shoes,Fashion,2815.59,25,12670.16,Bangalore,UPI,Cancelled
+ORD10266,Rahul Kumar,rahul.kumar43@gmail.com,3,2025-04-02,Coffee Mug,Home & Kitchen,273.54,5,779.59,Kolkata,N/A,
+ORD10267,Arjun Verma,not_an_email,8,01-09-2025,Coffee Mug,Home & Kitchen,282.6,20,1808.64,Kolkata,Cash,Delivered
+ORD10268,Ananya Das,ananya.das5@gmail.com,1,2025/06/02,Notebook Set,Stationery,222.24,20,177.79,Bangalore,UPI,Delivered
+ORD10269, DIVYA IYER ,divya.iyer47@gmail.com,2,08-07-2025,Wireless Mouse,Electronics,577.54,10,1039.57,Bangalore,Cash,Returned
+ORD10270,Divya Iyer,divya.iyer94@gmail.com,2,2025/11/06,Backpack,Fashion,1355.46,25,2033.19,Kolkata,Net Banking,Pending
+ORD10271,Divya Iyer,divya.iyer30@gmail.com,4,2025-08-27,Running Shoes,N/A,2125.73,0,8502.92,Mumbai,Net Banking,Cancelled
+ORD10272,Arjun Verma,arjun.verma71@gmail.com,1,24-06-2025,Cotton T-Shirt,Fashion,625.98,10,563.38,Hyderabad,Credit Card,Shipped
+ORD10273, ARJUN VERMA ,arjun.verma43@gmail.com,7,2025/09/24,USB Cable,Electronics,243.0,0,1701.0,BANGOLORE,Net Banking,
+ORD10274,Rahul Kumar,rahul.kumar74@gmail.com,7,N/A,Coffee Mug,Home & Kitchen,276.56,0,1935.92,Hyderabad,Debit Card,Cancelled
+ORD10275,Sneha Patel,sneha.patel12@gmail.com,1,N/A,USB Cable,Electronics,232.75,20,186.2,Chennai,Cash,Returned
+ORD10276,Vikram Singh,vikram.singh92@gmail.com,2,2025-11-01,BACKPACK ,Fashion,1106.29,0,2212.58,Chennai,Cash,Delivered
+ORD10277,Arjun Verma,arjun.verma41@gmail.com,2,2025-05-21,USB Cable,Electronics,190.85,5,362.61,Hyderabad,Net Banking,Returned
+ORD10278,Divya Iyer,divya.iyer44@gmail.com,8,2025-08-30,Backpack,Fashion,1130.51,0,9044.08,Bangalore,Cash,Delivered
+ORD10279,Sneha Patel,sneha.patel92@gmail.com,2,18/10/2025,Backpack,Fashion,1610.08,15,2737.14,Bangalore,Cash,Delivered
+ORD10280,Vikram Singh,vikram.singh24@gmail.com,6,03-02-2025,Cotton T-Shirt,Fashion,720.89,0,4325.34,Bangalore,Debit Card,Cancelled
+ORD10281, PRIYA REDDY ,priya.reddy39@gmail.com,8,03/05/2025,Backpack,Fashion,1312.41,15,8924.39,Delhi,Cash,Cancelled
+ORD10282,Priya Reddy,priya.reddy95@gmail.com,8,2025/08/26,Coffee Mug,Home & Kitchen,267.82,20,1714.05,Bangalore,Cash,Shipped
+ORD10283,Sneha Patel,sneha.patel18@gmail.com,1,18-03-2025,Coffee Mug,Home & Kitchen,344.7,25,258.52,Pune,Cash,Returned
+ORD10284,Ananya Das,,1,26/07/2025,Coffee Mug,Home & Kitchen,327.28,20,261.82,Pune,UPI,
+ORD10285,Vikram Singh,vikram.singh81@gmail.com,7,07/10/2025,Cotton T-Shirt,Fashion,707.68,15,4210.7,Delhi,Cash,Shipped
+ORD10286,Aarav Sharma,aarav.sharma19@gmail.com,7,N/A,USB Cable,Electronics,246.76,5,1640.95,Kolkata,Cash,Returned
+ORD10287,Meera Nair,meera.nair94@gmail.com,5,2025/10/23,Water Bottle,Home & Kitchen,354.0,20,1416.0,Hyderabad,UPI,Returned
+ORD10288,Kiran Rao,,2,15/02/2025,Backpack,Fashion,1376.09,20,2201.74,Gajwel,UPI,Returned
+ORD10289,Vikram Singh,vikram.singh46@gmail.com,5,2025/11/02,Running Shoes,Fashion,2291.59,25,8593.46,gajwel,UPI,Cancelled
+ORD10290,Kiran Rao,kiran.rao33@gmail.com,5,2025-01-08,Notebook Set,Stationery,191.06,10,859.77,Delhi,Net Banking,delivered
+ORD10291, DIVYA IYER ,divya.iyer20@gmail.com,7,14/08/2025,USB CABLE ,Electronics,230.47,5,1532.63,Mumbai,Net Banking,Pending
+ORD10292,Sneha Patel,sneha.patel49@gmail.com,8,2025-08-11,DESK LAMP ,Home & Kitchen,858.59,20,5494.98,Pune,Cash,Cancelled
+ORD10293,Kiran Rao,kiran.rao43@gmail.com,5,27-10-2025,Running Shoes,Fashion,2926.15,10,13167.68,HYDERABAD ,Credit Card,delivered
+ORD10294,Meera Nair,meera.nair45@gmail.com,5,2025-01-13,Water Bottle,Home & Kitchen,331.81,0,1659.05,Hyderabad,Net Banking,Shipped
+ORD10295,Rahul Kumar,rahul.kumar15@gmail.com,5,08-02-2025,NOTEBOOK SET ,Stationery,192.6,25,722.25,Pune,Cash,Pending
+ORD10296,Priya Reddy,priya.reddy63@gmail.com,7,25/02/2025,Water Bottle,Home & Kitchen,321.56,15,1913.28,Kolkata,Credit Card,Returned
+ORD10297,Rahul Kumar,rahul.kumar84@gmail.com,1,N/A,Wireless Mouse,Electronics,556.81,10,501.13,Kolkata,Net Banking,Delivered
+ORD10298,Meera Nair,meera.nair16@gmail.com,6,2025-07-25,Coffee Mug,Home & Kitchen,294.03,10,1587.76,Bangalore,Debit Card,Returned
+ORD10299, KIRAN RAO ,not_an_email,2,2025-09-07,Desk Lamp,Home & Kitchen,990.92,10,1783.66,Gajwel,Credit Card,Shipped
+ORD10300,Meera Nair,meera.nair3@gmail.com,6,N/A,Wireless Mouse,Electronics,435.34,25,1959.03,Bangalore,CREDIT CARD,Returned

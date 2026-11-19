@@ -59,7 +59,9 @@ Users can explore the dashboard using the following slicers:
 
 ## Dashboard Preview
 
-"C:\Users\naveen\Desktop\D13\powerbi\Ecommerce_dashboard.png"
+
+![E-Commerce Sales Dashboard](Ecommerce_dashboard.png)
+
 
 ## Key Business Questions
 

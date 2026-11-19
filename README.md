@@ -72,12 +72,14 @@ Users can explore the dashboard using the following slicers:
 
 ## Project Files
 
+
 | File | Description |
 |---|---|
-| [Raw Dataset](data/ecommerce_sales_uncleaned_practice.csv) | Original uncleaned dataset |
-| [Cleaned Dataset](data/Ecommerce_Cleaned_dataset.xlsx) | Cleaned dataset using Power Query |
-| [Power BI Dashboard](dashboard/Ecommerce_sales_overview.pbix) | Interactive dashboard file |
-| [Dashboard Image](images/Ecommerce_dashboard.png) | Dashboard preview |
+| [Raw Dataset](ecommerce_sales_uncleaned_practice.csv) | Original uncleaned CSV dataset |
+| [Cleaned Dataset](Ecommerce_Cleaned_dataset.xlsx) | Cleaned Excel dataset |
+| [Power BI Dashboard](Ecommerce_sales_overview.pbix) | Download Power BI dashboard |
+| [Dashboard Preview](Ecommerce_dashboard.png) | View dashboard screenshot |
+
 
 ## Project Outcome
 
